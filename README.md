@@ -2,7 +2,7 @@
 
   ![License](https://img.shields.io/badge/license-MIT-green)
 
-  ## Table of Contents:
+## Table of Contents:
   1. [Description](#description)
   2. [Installation](#installation)
   3. [Usage](#usage)
@@ -11,8 +11,8 @@
   6. [License](#license)
   7. [Questions](#questions)
 
-  ## Description:
- The objective of this application is to create an Employee Tracker. The user may quickly view and manage the departments, roles, and employees in their company using command line inputs. The below criteria was kept in mind when creating this application:
+## Description:
+The objective of this application is to create an Employee Tracker. The user may quickly view and manage the departments, roles, and employees in their company using command line inputs. The below criteria was kept in mind when creating this application:
 
 GIVEN a command-line application that accepts user input
 WHEN I start the application
@@ -32,25 +32,29 @@ THEN I am prompted to enter the employee’s first name, last name, role, and ma
 WHEN I choose to update an employee role
 THEN I am prompted to select an employee to update and their new role and this information is updated in the database
 
-  ## Installation:
- The JavaScript code can be downloaded via the Employee Tracker folder on my Github page.
+## Installation:
+The JavaScript code can be downloaded via the Employee Tracker folder on my Github page.
 
-  ## Usage:
-  This Employee Tracker is intended for easy navigation by using the command line interface. The user begins by typing 'node index.js' in the command line. The prompts are intuitive and user inputs from the command line will be used to view and edit company informaiton.
+## Usage:
+This Employee Tracker is intended for easy navigation by using the command line interface. The user begins by typing 'node index.js' in the command line. The prompts are intuitive and user inputs from the command line will be used to view and edit company informaiton.
   
-  [![Employee Tracker](Employee Tracker.mp4)]
 
-  An example of how to use this Employee Tracker can be found here: https://drive.google.com/file/d/15ic4z4XffxBmtpJJXicFef7mP3ZhPn5Q/view?usp=sharing
+
+https://github.com/kristinaama/EmployeeTracker/assets/127279859/5a6ce28c-ff9e-4ac5-a144-2d8d9f9dfe09
+
+
+
+An example of how to use this Employee Tracker can be found here: https://drive.google.com/file/d/15ic4z4XffxBmtpJJXicFef7mP3ZhPn5Q/view?usp=sharing
   
-  ## Contributions:
-  Samantha Rudolph - UC Berkeley Extension Instructor
+## Contributions:
+Samantha Rudolph - UC Berkeley Extension Instructor
 
-  ## Tests:
-  No tests were recorded for this project.
+## Tests:
+No tests were recorded for this project.
 
-  ## License:
- This project is licensed under the terms of the MIT license.
+## License:
+This project is licensed under the terms of the MIT license.
 
-  ## Questions:
-  Please refer to the following Github profile link: https://github.com/kristinaama.
-    For any additional questions, please e-mail kristina.mae.ama@gmail.com.
+## Questions:
+Please refer to the following Github profile link: https://github.com/kristinaama.
+For any additional questions, please e-mail kristina.mae.ama@gmail.com.
